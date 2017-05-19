@@ -113,6 +113,7 @@ AddOutputFilter chunkFilter
 		<Item Name="External VIs" Type="Folder">
 			<Item Name="Counter_Reset.vi" Type="VI" URL="../Counter_Reset.vi"/>
 			<Item Name="Input_to_Dash.vi" Type="VI" URL="../Input_to_Dash.vi"/>
+			<Item Name="JumpBreak.vi" Type="VI" URL="../JumpBreak.vi"/>
 			<Item Name="Set_Servo.vi" Type="VI" URL="../../2016 Robot Project/Set_Servo.vi"/>
 			<Item Name="SlowMode.vi" Type="VI" URL="../../ADDONS FOR LABVIEW PROGRAMMING/SlowMode.vi"/>
 			<Item Name="Sonar_Get_Value.vi" Type="VI" URL="../Sonar_Get_Value.vi"/>
@@ -341,6 +342,7 @@ AddOutputFilter chunkFilter
 				<Item Name="spi_bus.ctl" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/SystemInterfaces/spilib/spi_bus.ctl"/>
 				<Item Name="String Matches Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/String Matches Pattern.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
+				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="Table Manager.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/Table Manager.vi"/>
 				<Item Name="TCP Get Raw Net Object.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Get Raw Net Object.vi"/>
