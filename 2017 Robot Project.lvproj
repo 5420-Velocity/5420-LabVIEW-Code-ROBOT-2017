@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 			<Item Name="JumpBreak.vi" Type="VI" URL="../JumpBreak.vi"/>
 			<Item Name="Set_Servo.vi" Type="VI" URL="../../2016 Robot Project/Set_Servo.vi"/>
 			<Item Name="SlowMode.vi" Type="VI" URL="../../ADDONS FOR LABVIEW PROGRAMMING/SlowMode.vi"/>
+			<Item Name="SolenoidSet.vi" Type="VI" URL="../../2017 Robot Project/SolenoidSet.vi"/>
 			<Item Name="Sonar_Get_Value.vi" Type="VI" URL="../Sonar_Get_Value.vi"/>
 		</Item>
 		<Item Name="Global" Type="Folder">
