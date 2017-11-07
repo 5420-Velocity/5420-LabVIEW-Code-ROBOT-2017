@@ -114,7 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Counter_Reset.vi" Type="VI" URL="../Counter_Reset.vi"/>
 			<Item Name="Input_to_Dash.vi" Type="VI" URL="../Input_to_Dash.vi"/>
 			<Item Name="JumpBreak.vi" Type="VI" URL="../JumpBreak.vi"/>
-			<Item Name="Set_Servo.vi" Type="VI" URL="../../2016 Robot Project/Set_Servo.vi"/>
+			<Item Name="Set_Servo.vi" Type="VI" URL="../../VIs/Set_Servo.vi"/>
 			<Item Name="SlowMode.vi" Type="VI" URL="../../ADDONS FOR LABVIEW PROGRAMMING/SlowMode.vi"/>
 			<Item Name="SolenoidSet.vi" Type="VI" URL="../SolenoidSet.vi"/>
 			<Item Name="SolenoidSet_Double.vi" Type="VI" URL="../SolenoidSet_Double.vi"/>
@@ -737,7 +737,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{D2136F65-FD06-4AC9-A317-10E44B9EF7A4}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">54</Property>
+				<Property Name="Bld_version.build" Type="Int">55</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
